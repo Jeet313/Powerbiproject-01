@@ -1,0 +1,20 @@
+Hi My name is Gourab karmakar, and i completed this project in powerBI.
+
+Details:
+This superstore sales data is an E-commerce sales data and the owner wants a complete overview for his store to manage his store.
+Q.1)Showcase the total sales in card
+Q.2)Showcase the Total quanity sold in card
+Q.3)Create a new measure named AvgDelivery and showcase in card
+Q.4)Showcase the total profit in card
+Q.5)Showcase the Monthly sales for year 2019 and 2020
+Q.5)Showcase the Monthly Profit for year 2019 and 2020
+Q.6)Which shipmode has most sales
+Q.7)Total sales by category
+Q.8)Showcase the total sales by subcategory
+Q.9)Create a donut chart and showcase the sales percentage for Each Region
+Q.10)Create a donut chart and showcase the segment wise sales
+Q.11)Showcase the most used payment mode by the customers
+Q.12)Create a map to find which location has most sales and most profit based on state
+Select bubble size by sales and tooltips as profit
+
+So i had clean and filter the raw excel data to correct mistakes and created a Power BI interactive insight to solve this 12 Question.
